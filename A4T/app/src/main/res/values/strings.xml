@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">A4T</string>
+
+    <string name="go_to_man_screen">Go to main screen</string>
+    <string name="dummy_content">MMT 06\nUIT</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="man_text_view">This is the main screen</string>
+    <string name="thuc_activity_text_view">This is Cong Thuc Activity Screen</string>
+    <string name="tung_activity_text_view">This is Viet Tung Activity screen</string>
+
+    <string name="thuc_button">PCT</string>
+    <string name="tung_button">NVT</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_thuc">ThucActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_tung">TungActivity</string>
+    <string name="title_activity_do_jobs">DoJobs</string>
+    <string name="txt_do_jobs_activity">This Activity will get Data and maybe send it to Server</string>
+</resources>
